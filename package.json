@@ -1,0 +1,26 @@
+{
+  "name": "fat_tool",
+  "version": "0.0.1",
+  "description": "a tool for fat troll friend game dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/aacczury/fat_tool.git"
+  },
+  "author": "aacczury",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aacczury/fat_tool/issues"
+  },
+  "homepage": "https://github.com/aacczury/fat_tool#readme",
+  "dependencies": {
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-es2015": "^6.24.1",
+    "express": "^4.15.3",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  }
+}
